@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "\u0016"
+version = "\u0016"
+description = "py -m poetry add flask"
+authors = ["zxcvakym <pyndycmiroslav@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
